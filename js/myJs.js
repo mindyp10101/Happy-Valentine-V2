@@ -9,7 +9,7 @@ const textConfig = {
   text8: "Send MP the Confession",
   text9: "Tại MP dễ thương nè, hát hay, học giỏi, lại còn giỏi nói chuyện nữa nè!",
   text10: "Woahhh! Thế sao không nói sớm, MP cũng thích Kiệt lắm luôn 10/10",
-  text11: "P.S: Thích nha, không phải yêu, Kiệt đừng có tưởng bở nha! Miễn cưỡng vẫn có thể cho bạn thích MP á",
+  text11: "P.S: Thích nha, không phải yêu, Kiệt đừng có sợ nha! Miễn cưỡng MP vẫn có thể để Kiệt thích MP á!!",
   text12: "Valentine vui vẻ, Kiệt!!",
 };
 
