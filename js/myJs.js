@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Thích! Thích lắm luôn!",
   text7: "Ơ, thích Mindy à, sao nãy bảo khác cơ mà! Lạ nha! Thích thế nào nè?",
   text8: "Send your confession",
-  text9: "Tại MP dễ thương nè, ngoan, hiểu chuyện, lại còn làm bác sĩ, oai ơi là oai!!",
+  text9: "Tại Mindy dễ thương nè, ngoan, hiểu chuyện, lại còn làm bác sĩ, oai ơi là oai!!",
   text10: "Nice~ Phải vậy chứ! Mindy 10 điểm không có nhưng! Best of the worst..., oops, best of the best LOL",
   text11: "P.S: Thank you for being my Valentine, honestly I'm happy spending time together, not needed for all the expensive dining LOL",
   text12: "Valentine vui vẻ!!",
