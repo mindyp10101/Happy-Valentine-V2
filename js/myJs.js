@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "Happy Valentine!!!",
+  text1: "Happy Valentine, Viet version!!!",
   text2: "Round 2 nào!! Này nghiêm túc này!",
-  text3: "Kiệt thích MP không??",
-  text4: "Lần này để Kiệt trả lời thật lòng này! Nghiêm túc, không đùa!",
-  text5: "Không/Không muốn trả lời!",
+  text3: "Thế anh Mẫn thích Mindy không???",
+  text4: "Nghiêm túc trả lời nha, không đùa! Thanh niên nghiêm túc của năm xem nào!",
+  text5: "Ghét chứ thích gì nổi =]",
   text6: "Thích! Thích lắm luôn!",
-  text7: "Ơ, thích MP sao lại không nói! Ngộ ghê! Thế thích MP chỗ nào nè?",
-  text8: "Send MP the Confession",
-  text9: "Tại MP dễ thương nè, hát hay, học giỏi, lại còn giỏi nói chuyện nữa nè!",
-  text10: "Woahhh! Thế sao không nói sớm, MP cũng thích Kiệt lắm luôn 10/10",
-  text11: "P.S: Thích nha, không phải yêu, Kiệt đừng có sợ nha! Miễn cưỡng MP vẫn có thể để Kiệt thích MP á!!",
-  text12: "Valentine vui vẻ, Kiệt!!",
+  text7: "Ơ, thích Mindy à, sao nãy bảo khác cơ mà! Lạ nha! Thích thế nào nè?",
+  text8: "Send your confession",
+  text9: "Tại MP dễ thương nè, ngoan, hiểu chuyện, lại còn làm bác sĩ, oai ơi là oai!!",
+  text10: "Nice~ Phải vậy chứ! Mindy 10 điểm không có nhưng! Best of the worst..., oops, best of the best LOL",
+  text11: "P.S: Thank you for being my Valentine, honestly I'm happy spending time together, not needed for all the expensive dining LOL",
+  text12: "Valentine vui vẻ!!",
 };
 
 
